@@ -307,7 +307,7 @@ li {
 
 .contact-in:nth-child(1) {
     flex: 30%;
-    background: url(/Images/1.jpg);
+    background: url(Images/1.jpg);
     color: var(--white-color);
 }
 
